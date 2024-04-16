@@ -1,0 +1,54 @@
+.header{
+    width: 100%;
+    height: 300px;
+    background-color: blueviolet;
+    background-image: url(https://th.bing.com/th/id/OIP.KBDUcQD5lxRkk-IKVjCnigHaE8?rs=1&pid=ImgDetMain);
+    background-attachment: fixed;
+}
+body{
+    margin: 0px;
+}
+.heading{
+  text-shadow:color(srgb rgb(246, 237, 237) rgb(208, 211, 208) rgb(239, 239, 241)) 20px 20px 20px;
+  padding-top: 60px;
+color: rgb(225, 160, 20);
+text-align: center;
+font-weight: bold;
+font-size: 100px;
+}
+.box{
+box-shadow: 15px 15px 15px;
+width: 15%;
+height: 300px;
+background-color: rgb(62, 67, 145);
+float: left;
+margin: 1px;
+margin-left: 200px;
+margin-top: 20px;
+border: 15px solid;}
+img{
+  width: 100%;
+  height: 300px
+}
+button{
+  margin: -50px 0px 0px 90px;
+  color: rgb(219, 7, 7);
+}
+marquee{
+  color: white;
+}
+a{
+  text-decoration: none;
+}
+.footer{
+  margin-top: 1500px;
+  background-color: rgb(79, 37, 7);
+  height: 100px;
+  width: 100%;
+}
+#foot{
+  padding-top: 60px;
+  text-align: center;
+  color: aliceblue;
+}
+  
